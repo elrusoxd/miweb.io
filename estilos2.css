@@ -1,0 +1,16 @@
+body{
+    background-image: url("C:/Users/HP/OneDrive/Imágenes/Wallpapers4K/Doing01.jpg");
+    background-size: 1920px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    text-align: middle;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    text-shadow: 3px 1px 2px rgb(red, green, blue);
+}
+.parra1{
+    color: aqua;
+    text-align: right;
+}
